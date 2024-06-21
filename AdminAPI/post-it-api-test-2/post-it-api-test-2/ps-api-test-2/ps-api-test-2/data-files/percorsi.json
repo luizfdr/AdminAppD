@@ -1,0 +1,25 @@
+[
+  {
+    "id": 2001,
+    "zona": "AGN",
+    "nome": "Sentiero dell'orso",
+    "descrizione": "Il sentiero inizia dal centro cittadino, segue il torrente Agno, passando per la Pizzeria Da Luca e la cascata dei Giorgetti. Attraversa contrade come Menarini, Asnicar, Casa Marocco, Tallera e Orsati, fino alla Baita del Toni Pata 'L'orso'. Nel bosco dei Suntra, si possono vedere sculture e conoscere la storia del popolo Suntra. Prosegue attraversando la strada asfaltata varie volte e arriva a Casare Asnicar alla casetta del Fondo. Punti di ristoro includono Da Geremia, Locanda da Luca, e Ai Menarini. Hotel consigliato: Hotel Trettenero.",
+    "immagini": [
+      {
+        "url": "https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1062355/ICCD14073101_185158%204940%20Pros%20S026.jpg",
+        "alt": "centrale elettrica Torrazzo"
+      }
+    ],
+    "dettagliPercorsi": [
+      {
+        "oaUrl": "http://example.com/percorso",
+  	"lunghezza": 12.5,
+  	"durata": 90.0,
+  	"dislivello": 350.0,
+ 	"puntoAlto": 1200.0,
+  	"puntoBasso": 800.0
+      }
+    ],
+    "centrali": [238190903]
+  }
+]

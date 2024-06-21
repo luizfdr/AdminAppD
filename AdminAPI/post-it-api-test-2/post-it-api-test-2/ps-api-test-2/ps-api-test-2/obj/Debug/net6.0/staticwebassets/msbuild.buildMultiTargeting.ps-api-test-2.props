@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ps-api-test-2.props" />
+</Project>

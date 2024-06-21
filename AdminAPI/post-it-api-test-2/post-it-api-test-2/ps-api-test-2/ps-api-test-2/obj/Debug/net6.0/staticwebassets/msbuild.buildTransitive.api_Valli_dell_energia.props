@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\api_Valli_dell_energia.props" />
+</Project>

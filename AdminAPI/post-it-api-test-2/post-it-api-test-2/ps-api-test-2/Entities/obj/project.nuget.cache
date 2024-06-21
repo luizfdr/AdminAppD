@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6rEUjFv/9rXlTTG3vKzSnqJ82Fw/Ofw73RpvzD6cqD3X6Lw4qPhA+X5FQl0ju1o13UERsHUZKznDMz07hzz+mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luka\\Desktop\\MTFC\\post-it-api-test-2\\ps-api-test-2\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Luka\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Luka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

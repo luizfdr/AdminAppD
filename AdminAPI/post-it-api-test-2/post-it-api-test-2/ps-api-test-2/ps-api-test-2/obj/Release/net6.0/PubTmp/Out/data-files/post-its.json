@@ -1,0 +1,142 @@
+[
+    {
+      "id": 2,
+      "versionId": 1,
+      "creator": "Mattia",
+      "creationDate": "20/09/2023",
+      "userId": 1,
+      "group": 0,
+      "likes": [
+        0
+      ],
+      "versions": [
+        {
+          "id": 1,
+          "content": "Il burrito faceva abbastanza schifo comunque",
+          "color": "green"
+        },
+        {
+          "id": 2,
+          "content": "Il burrito non era nulla di che comunque",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "versionId": 1,
+      "creator": "Admin@CS9",
+      "creationDate": "21/09/2023",
+      "userId": 0,
+      "group": 7,
+      "likes": [
+        0
+      ],
+      "versions": [
+        {
+          "id": 1,
+          "content": "Matilde, ricorda che quando crei un gruppo, dentro deve esserci anche l'admin !",
+          "color": "white"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "versionId": 1,
+      "creator": "Admin@CS9",
+      "creationDate": "21/09/2023",
+      "userId": 0,
+      "group": 0,
+      "likes": [
+        0
+      ],
+      "versions": [
+        {
+          "id": 1,
+          "content": "test-1",
+          "color": "green"
+        },
+        {
+          "id": 2,
+          "content": "Viva la vida",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "versionId": 1,
+      "creator": "Admin@CS9",
+      "creationDate": "21/09/2023",
+      "userId": 0,
+      "group": 0,
+      "likes": [
+        0,
+        1
+      ],
+      "versions": [
+        {
+          "id": 1,
+          "content": "Sito dei post-it",
+          "color": "white"
+        },
+        {
+          "id": 2,
+          "content": "Gran premio del giappone",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "versionId": 1,
+      "creator": "Admin@CS9",
+      "creationDate": "21/09/2023",
+      "userId": 0,
+      "group": 0,
+      "likes": [],
+      "versions": [
+        {
+          "id": 1,
+          "content": "Si vola!",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "versionId": 1,
+      "creator": "Admin@CS9",
+      "creationDate": "21/09/2023",
+      "userId": 0,
+      "group": 0,
+      "likes": [
+        0
+      ],
+      "versions": [
+        {
+          "id": 1,
+          "content": "It's time to d-d-d-duel !",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "versionId": 1,
+      "creator": "Mattia",
+      "creationDate": "21/09/2023",
+      "userId": 1,
+      "group": 0,
+      "likes": [
+        0
+      ],
+      "versions": [
+        {
+          "id": 1,
+          "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean m",
+          "color": "green"
+        }
+      ]
+    }
+  ]

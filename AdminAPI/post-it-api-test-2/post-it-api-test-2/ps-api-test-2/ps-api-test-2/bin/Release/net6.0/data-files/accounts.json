@@ -1,0 +1,66 @@
+[
+    {
+      "pfp": "https://imgur.com/IsOQHDz.png",
+      "id": 0,
+      "username": "Admin@CS9",
+      "password": "Admin2k23",
+      "followedUsers": [
+        1
+      ],
+      "groups": [
+        0,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "pfp": "https://media.tenor.com/OiEJht3qg-EAAAAC/takodachi-ina.gif",
+      "id": 1,
+      "username": "Mattia",
+      "password": "RossoCorsa",
+      "followedUsers": [
+        0,
+        3,
+        4,
+        5
+      ],
+      "groups": [
+        0,
+        9
+      ]
+    },
+    {
+      "pfp": "https://i.imgur.com/9kjG7u3.png",
+      "id": 3,
+      "username": "Davide",
+      "password": "Sbrodolino10",
+      "followedUsers": [],
+      "groups": [
+        0
+      ]
+    },
+    {
+      "pfp": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Default_pfp.svg/480px-Default_pfp.svg.png",
+      "id": 4,
+      "username": "Matilde",
+      "password": "Password",
+      "followedUsers": [],
+      "groups": [
+        0,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "pfp": "https://cdn.prod.www.spiegel.de/images/0bb37ebe-0001-0005-0000-000000246227_w345_r0.8214285714285714_fpx54.21_fpy38.81.jpg",
+      "id": 5,
+      "username": "Niccolò",
+      "password": "Sbrodolino10",
+      "followedUsers": [],
+      "groups": [
+        0
+      ]
+    }
+  ]

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\api_Valli_dell_energia.props" />
+</Project>

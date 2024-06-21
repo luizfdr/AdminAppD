@@ -1,0 +1,12 @@
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\Interfaces\bin\Release\net6.0\Interfaces.deps.json
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\Interfaces\bin\Release\net6.0\Interfaces.dll
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\Interfaces\bin\Release\net6.0\Interfaces.pdb
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\Interfaces\obj\Release\net6.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\Interfaces\obj\Release\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\Interfaces\obj\Release\net6.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\Interfaces\obj\Release\net6.0\Interfaces.AssemblyInfo.cs
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\Interfaces\obj\Release\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\Interfaces\obj\Release\net6.0\Interfaces.dll
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\Interfaces\obj\Release\net6.0\refint\Interfaces.dll
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\Interfaces\obj\Release\net6.0\Interfaces.pdb
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\Interfaces\obj\Release\net6.0\ref\Interfaces.dll

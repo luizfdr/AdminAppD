@@ -1,0 +1,15 @@
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\ps-api-test-2\obj\Release\net6.0\PubTmp\Out\ps-api-test-2.exe
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\ps-api-test-2\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\ps-api-test-2\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\ps-api-test-2\obj\Release\net6.0\PubTmp\Out\data-files\accounts.json
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\ps-api-test-2\obj\Release\net6.0\PubTmp\Out\data-files\post-its.json
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\ps-api-test-2\obj\Release\net6.0\PubTmp\Out\ps-api-test-2.dll
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\ps-api-test-2\obj\Release\net6.0\PubTmp\Out\ps-api-test-2.deps.json
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\ps-api-test-2\obj\Release\net6.0\PubTmp\Out\ps-api-test-2.runtimeconfig.json
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\ps-api-test-2\obj\Release\net6.0\PubTmp\Out\ps-api-test-2.pdb
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\ps-api-test-2\obj\Release\net6.0\PubTmp\Out\NLog.dll
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\ps-api-test-2\obj\Release\net6.0\PubTmp\Out\NLog.Extensions.Logging.dll
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\ps-api-test-2\obj\Release\net6.0\PubTmp\Out\Interfaces.dll
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\ps-api-test-2\obj\Release\net6.0\PubTmp\Out\LoggerService.dll
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\ps-api-test-2\obj\Release\net6.0\PubTmp\Out\LoggerService.pdb
+C:\Users\Luka\Desktop\MTFC\post-it-api-test-2\ps-api-test-2\ps-api-test-2\obj\Release\net6.0\PubTmp\Out\Interfaces.pdb
