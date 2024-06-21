@@ -1,0 +1,20 @@
+<div class="admin-container">
+    <div class="admin-menu">
+      <app-admin-menu></app-admin-menu>
+    </div>
+    <div class="list-container">
+      <label>
+        <input type="radio" name="listType" value="centrali" (change)="switchList('centrali')" checked>
+        Centrali
+      </label>
+      <label>
+        <input type="radio" name="listType" value="percorsi" (change)="switchList('percorsi')">
+        Percorsi
+      </label>
+      <button (click)="addItem()">Add Item</button>
+  
+      <app-centrali-list *ngIf="currentListType === 'centrali'"></app-centrali-list>
+      <app-percorsi-list *ngIf="currentListType === 'percorsi'"></app-percorsi-list>
+    </div>
+  </div>
+  

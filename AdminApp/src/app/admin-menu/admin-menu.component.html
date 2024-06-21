@@ -1,0 +1,22 @@
+<div *ngIf="selectedItem">
+    <div>
+      <label>Name: <input [(ngModel)]="selectedItem.nome"></label>
+    </div>
+    <div>
+      <label>Description: <input [(ngModel)]="selectedItem.descrizione"></label>
+    </div>
+    <div>
+      <label>Zone: 
+        <select [(ngModel)]="selectedItem.zone">
+          <option value="AST">AST</option>
+          <option value="AGN">AGN</option>
+        </select>
+      </label>
+    </div>
+    <div>
+      <button (click)="save()">Save</button>
+      <button (click)="cancel()">Cancel</button>
+      <button (click)="delete()">Delete</button>
+    </div>
+  </div>
+  

@@ -1,0 +1,6 @@
+<ul>
+    <li *ngFor="let percorsi of percorsiList$ | async" (click)="selectItem(percorsi)">
+      {{ percorsi.nome }}
+    </li>
+  </ul>
+  

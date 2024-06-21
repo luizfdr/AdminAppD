@@ -1,0 +1,6 @@
+<ul>
+    <li *ngFor="let centrali of centraliList$ | async" (click)="selectItem(centrali)">
+      {{ centrali.nome }}
+    </li>
+  </ul>
+  
