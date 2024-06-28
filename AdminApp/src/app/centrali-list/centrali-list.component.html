@@ -1,6 +1,9 @@
+<p>Centrali</p>
 <ul>
-    <li *ngFor="let centrali of centraliList$ | async" (click)="selectItem(centrali)">
-      {{ centrali.nome }}
+    <li *ngFor="let centrali of centraliList" (click)="selectItem(centrali)">
+      <button type="button" >
+        {{ centrali.nome }} - {{centrali.zona}} - {{centrali.descrizione}}
+      </button>
     </li>
-  </ul>
+</ul>
   

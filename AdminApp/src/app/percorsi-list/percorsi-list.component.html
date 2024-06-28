@@ -1,6 +1,7 @@
-<ul>
-    <li *ngFor="let percorsi of percorsiList$ | async" (click)="selectItem(percorsi)">
-      {{ percorsi.nome }}
-    </li>
-  </ul>
+<h1>Percorsi</h1>
+<div>
+    <div *ngFor="let percorso of percorsiFiltered" (click)="selectItem(percorso)">
+        <button type="button" >{{ percorso.nome }} - {{percorso.zona}} - {{percorso.descrizione}}</button>
+    </div>
+</div>
   

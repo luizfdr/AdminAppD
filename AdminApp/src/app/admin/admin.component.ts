@@ -26,24 +26,26 @@ export class AdminComponent {
     if (this.currentListType === 'centrali') {
       const newCentrali = {
         id: Date.now(),
+        zona: '',
         nome: '',
+        stato: true,
         descrizione: '',
-        technical_details: [],
-        trails: [],
-        img: [],
-        zone: 'AST'
+        localita: {} as any,
+        immagini: [],
+        dettagliCentrali: [],
+        percorsi: [],
       };
       this.adminService.addCentrali(newCentrali);
       this.adminService.selectItem(newCentrali);
     } else if (this.currentListType === 'percorsi') {
       const newPercorsi = {
         id: Date.now(),
+        zona: '',
         nome: '',
         descrizione: '',
-        percorso: {},
+        dettagliPercorsi: [] as any,
         centrali: [],
-        immagini: [],
-        zone: 'AST'
+        immagini: [] as any,
       };
       this.adminService.addPercorsi(newPercorsi);
       this.adminService.selectItem(newPercorsi);

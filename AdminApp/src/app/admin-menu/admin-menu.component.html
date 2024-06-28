@@ -1,22 +1,22 @@
-<div *ngIf="selectedItem">
+<div>
     <div>
-      <label>Name: <input [(ngModel)]="selectedItem.nome"></label>
+      <label>Nome: <input *ngIf="selectedItem" [(ngModel)]="selectedItem.nome"></label>
     </div>
     <div>
-      <label>Description: <input [(ngModel)]="selectedItem.descrizione"></label>
+      <label>Descrizione: <input *ngIf="selectedItem" [(ngModel)]="selectedItem.descrizione"></label>
     </div>
     <div>
-      <label>Zone: 
-        <select [(ngModel)]="selectedItem.zone">
-          <option value="AST">AST</option>
-          <option value="AGN">AGN</option>
+      <label>Zona: 
+        <select *ngIf="selectedItem" [(ngModel)]="selectedItem.zona">
+          <option value="AST">Astico</option>
+          <option value="AGN">Agno</option>
         </select>
       </label>
     </div>
-    <div>
-      <button (click)="save()">Save</button>
-      <button (click)="cancel()">Cancel</button>
-      <button (click)="delete()">Delete</button>
+    <div *ngIf="selectedItem">
+      <button (click)="save()">Salva</button>
+      <button (click)="cancel()">Cancella</button>
+      <button (click)="delete()">Elimina</button>
     </div>
-  </div>
+</div>
   

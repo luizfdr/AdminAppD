@@ -16,19 +16,21 @@ export class AdminMenuComponent {
   selectedItem: Centrali | Percorsi | null = null;
 
   constructor(public adminService: AdminService) {
-    this.adminService.selectedItem$.subscribe(item => {
-      this.selectedItem = item;
-    });
+    this.selectedItem = this.adminService.selectedItemGet();
+    console.log("menu selecte");
   }
 
   save() {
     if (this.selectedItem) {
       if ((this.selectedItem as Centrali).nome !== undefined) {
+        this.adminService.addCentrali(this.selectedItem as Centrali);
         this.adminService.updateCentrali(this.selectedItem as Centrali);
-      } else {
+      } else if((this.selectedItem as Percorsi).nome !== undefined) {
+        this.adminService.addPercorsi(this.selectedItem as Percorsi);
         this.adminService.updatePercorsi(this.selectedItem as Percorsi);
       }
     }
+    this.selectedItem = null;
   }
 
   cancel() {
